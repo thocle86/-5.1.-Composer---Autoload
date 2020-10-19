@@ -1,0 +1,13 @@
+{
+    "name": "thocle86/composer",
+    "description": "Quete composer wild code school",
+    "authors": [
+        {
+            "name": "thocle86",
+            "email": "thocle86@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"App\\": "src"}
+    }
+}
